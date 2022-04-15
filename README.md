@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/05f12e4a-6d9b-4244-8e78-940701839e8f/deploy-status)](https://app.netlify.com/sites/friendly-torvalds-cfebf3/deploys)
 
 # Countdown timer Reactjs SPA Application
 
@@ -29,4 +28,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-![Screenshot](/screenshots/screenshot1.png)
